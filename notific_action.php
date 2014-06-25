@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : notific_action.php
+//
+// Description : This file let the user to take actions upon each notification .
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname222'])){
 	$e=$_SESSION['li_uname222'];

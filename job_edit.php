@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : job_edit.php
+//
+// Description : This file let the user to edit the posted tasks.
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname111'])){
 	$e=$_SESSION['li_uname111'];

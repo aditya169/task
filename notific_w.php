@@ -1,3 +1,19 @@
+<!--
+//============================================================+
+// File name   : notific_w.php
+//
+// Description : Display notifications for worker's account
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
+-->
 <script type="text/javascript">
 $(document).ready(function(){
 

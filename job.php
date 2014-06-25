@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : job.php
+//
+// Description : job.php file shows all the tasks available on eztasker.com
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname222'])){
 	$e=$_SESSION['li_uname222'];

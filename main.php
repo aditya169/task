@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : main.php
+//
+// Description : Displays all eztasker.com tasks along with google map.
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname111'])){
 header('Location:./admin_home.php');   // jump to home page

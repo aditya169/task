@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : xml.php
+//
+// Description : retrieves xml data for google map  from db.
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname333'])){
 require_once './includes/db_config.php';

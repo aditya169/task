@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : job_apply_history1.php
+//
+// Description : This file shows the history of applied tasks.
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname333'])){
 	$e=$_SESSION['li_uname333'];

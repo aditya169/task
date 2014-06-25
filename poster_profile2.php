@@ -1,4 +1,19 @@
 <?php
+//============================================================+
+// File name   : poster_profile2.php
+//
+// Description : This file saves the edited records of poster's profile
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
+
 // Read the form values
 $success = false;
 //gathering user's entered data

@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : reviews_save.php
+//
+// Description : This file saves the reviews written by user.
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname111'])){
 	$e=$_SESSION['li_uname111'];

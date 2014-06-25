@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : poster_profile.php
+//
+// Description : This file displays task poster's profile
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname111'])){
 	$e=$_SESSION['li_uname111'];

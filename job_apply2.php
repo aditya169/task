@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : job_apply2.php
+//
+// Description : This file let the user to apply for the task.
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 if(isset($_SESSION['li_uname333'])){
 	$e=$_SESSION['li_uname333'];

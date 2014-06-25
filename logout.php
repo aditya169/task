@@ -1,4 +1,18 @@
 <?php
+//============================================================+
+// File name   : logout.php
+//
+// Description : User Logout
+//
+// Author:  Aditya Mathur
+//
+// (c) Copyright:
+//               Aditya Mathur
+//               eztasker.com
+//
+// License:
+//    Copyright (C) 2014 Aditya Mathur - eztasker.com
+//============================================================+
 session_start();
 require_once("./includes/configure.php");
 if(isset($_SESSION['li_uname111'])){
