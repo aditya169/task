@@ -7,10 +7,10 @@
 // Author:  Aditya Mathur
 //
 // (c) Copyright:
-//               Aditya Mathur
+//               Aditya Mathur 
 //               eztasker.com
 //
-// License:
+// License:  
 //    Copyright (C) 2014 Aditya Mathur - eztasker.com
 //============================================================+
 session_start();
